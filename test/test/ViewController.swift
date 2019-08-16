@@ -15,6 +15,10 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
+    func testCount()->Int
+    {
+        return 10
+    }
 
 }
 
