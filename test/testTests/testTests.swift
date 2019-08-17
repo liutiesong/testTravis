@@ -22,7 +22,7 @@ class testTests: XCTestCase {
     func testExample() {
         let vc = ViewController()
         
-        XCTAssertEqual(vc.testCount(), 20, "技术错误")
+        XCTAssertEqual(vc.testCount(), 10, "技术错误")
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct results.
     }
